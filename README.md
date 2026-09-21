@@ -97,20 +97,23 @@ The Streamlit application allows the user to:
 3. View the Spam probability.
 4. View the message summary, including character and word count.
 
-## 📸 Screenshots
+## ## 📸 Screenshots
 
 ### Spam Prediction
 
-![Spam Prediction](screenshots/spam_prediction.png)
+![Spam Prediction 1](screenshots/spam_prediction_1.png)
+
+![Spam Prediction 2](screenshots/spam_prediction_2.png)
 
 ### Not Spam Prediction
 
-![Not Spam Prediction](screenshots/not_spam_prediction.png)
+![Not Spam Prediction 1](screenshots/not_spam_prediction_1.png)
+
+![Not Spam Prediction 2](screenshots/not_spam_prediction_2.png)
 
 ### Confusion Matrix
 
 ![Confusion Matrix](screenshots/confusion_matrix.png)
-
 ## 📁 Project Structure
 
 ```text
