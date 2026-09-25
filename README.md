@@ -51,6 +51,4 @@ Then open the Streamlit URL shown in the terminal.
 
 ![Not Spam Prediction 2](screenshots/not_spam_prediction_2.png)
 
-### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
