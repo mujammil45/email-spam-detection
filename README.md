@@ -1,4 +1,3 @@
-
 Email Spam Detection
 
 A Machine Learning project that detects whether an email/message is Spam or Not Spam.
@@ -15,11 +14,11 @@ Features
 
 Dataset
 
-The project uses an SMS/Email spam dataset containing spam and normal (ham) messages.
+The project uses an SMS spam dataset containing spam and normal (ham) messages.
 
 Model
 
-Logistic Regression is used for classification, with TF-IDF for converting text into numerical features.
+Logistic Regression is used for classification with TF-IDF for converting text into numerical features.
 
 Results
 
@@ -29,13 +28,19 @@ Results
 - F1 Score: 85.22%
 - ROC-AUC: 98.92%
 
-How to Run
+Live Demo
+
+The project is deployed using Streamlit.
+
+Live App:
+https://email-spam-detection-n7d2rmq3rxmqxzikqyivil.streamlit.app/
+
+How to Run Locally
 
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 
-Then open the Streamlit URL shown in the terminal.
 
 ## ## 📸 Screenshots
 
